@@ -1,0 +1,25 @@
+{
+  "name": "payloaded-fractal",
+  "version": "0.0.1",
+  "description": "The project with fractal based FS and reusable smart components",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezmond/payloaded-fractal.git"
+  },
+  "keywords": [
+    "fractal",
+    "react",
+    "redux",
+    "redux-observable"
+  ],
+  "author": "rezolvent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rezmond/payloaded-fractal/issues"
+  },
+  "homepage": "https://github.com/rezmond/payloaded-fractal#readme"
+}
